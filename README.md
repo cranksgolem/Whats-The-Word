@@ -1,1 +1,5 @@
 # Whats-The-Word
+The program works by randomly selecting a picture from a prebuilt-in selection of pictures. This picture is then broken into pieces and then displayed to the user with some of the pieces missing. The user is then tasked to figure out the object in the picture by revealing a part of the picture one cell at a time by completing certain tasks. These tasks come in the form of mini-games that involve using their Basic English knowledge to complete. The user is given three (3) chances to guess the object. The user does not have to reveal all parts of the image to be allowed to guess the object. Bonus points are awarded for each mini-game the user completes. Running out of chances will result on the game ending, giving the user the option to replay but with a new random picture in play.
+  
+The program features a variety of mini-games that will test the user’s knowledge on Basic English. All the mini-games will only give the user a limited amount of time to complete. If the user fails in completing a mini-game, he/she is free to try again until he/she completes the task.
+
