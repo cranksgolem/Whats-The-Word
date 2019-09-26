@@ -1,0 +1,199 @@
+Enter a NOUN from the sentence:
+The air is quite clear today.
+air
+
+Enter a NOUN from the sentence:
+His anger knows no limits.
+anger
+limits
+Enter a NOUN from the sentence:
+He provided an excellent answer to my question.
+answer
+question
+Enter a NOUN from the sentence:
+Let's go to the bar and get a beer.
+bar
+beer
+Enter a NOUN from the sentence:
+If you look up there you can see a bat flying between the trees.
+bat
+trees
+Enter a NOUN from the sentence:
+He bought a new boat for his birthday.
+boat
+birthday
+Enter a NOUN from the sentence:
+Use that board over there to cover up the window
+board
+window
+Enter a NOUN from the sentence:
+I'm not sure of the name of that animal.
+name
+animal
+Enter a NOUN from the sentence:
+You should read this book.
+book
+
+Enter a NOUN from the sentence:
+There is a bird on that branch.
+bird
+branch
+Enter a NOUN from the sentence:
+Could you buy me some bread?
+bread
+
+Enter a NOUN from the sentence:
+He drove his car very fast.
+car
+
+Enter a NOUN from the sentence: 
+You will find the bottle in the case.
+bottle
+case
+Enter a NOUN from the sentence:
+My cat is four years old.
+cat
+
+Enter a NOUN from the sentence:
+Let me get a chair.
+chair
+
+Enter a NOUN from the sentence:
+He gave the child a dime.
+child
+dime
+Enter a NOUN from the sentence:
+He came to class late.
+class
+
+Enter a NOUN from the sentence:
+We need a new clock for the livingroom.
+clock
+livingroom
+Enter a NOUN from the sentence:
+The cold in this room is unbearable.
+cold
+room
+Enter a NOUN from the sentence:
+He has a cow that he milks every day.
+cow
+
+Enter a NOUN from the sentence:
+He lives in a country where free speech is not allowed.
+country
+speech
+Enter a NOUN from the sentence:
+The crowd went wild at his last statement.
+crowd
+statement
+Enter a NOUN from the sentence:
+I visited my dad last week.
+dad
+
+Enter a NOUN from the sentence:
+His death disturbed her greatly.
+death
+
+Enter a NOUN from the sentence:
+Let me open the door for you.
+door
+
+Enter a NOUN from the sentence:
+She wore that pretty blue dress to the party.
+dress
+party
+Enter a NOUN from the sentence:
+The drive up to the canyon was beautiful.
+drive
+canyon
+Enter a NOUN from the sentence:
+Lend me an ear and I will tell you a story.
+ear
+story
+Enter a NOUN from the sentence:
+Do you see that cute duck swimming over there?
+duck
+
+Enter a NOUN from the sentence:
+The east will always be different from the west.
+east
+west
+Enter a NOUN from the sentence:
+Would you like your egg boiled or fried?
+egg
+
+Enter a NOUN from the sentence:
+His enemy attacked him.
+enemy
+
+Enter a NOUN from the sentence:
+She has so much energy!
+energy
+
+Enter a NOUN from the sentence:
+We are nearing the end of the journey.
+end
+journey
+Enter a NOUN from the sentence:
+One important element is hard study.
+element
+
+Enter a NOUN from the sentence:
+We still don't know the long term effects of his actions.
+effects
+actions
+Enter a NOUN from the sentence:
+Don't get too close to the edge!
+edge
+
+Enter a NOUN from the sentence:
+The ease with which he plays tennis shows how skillful he is.
+ease
+tennis
+Enter a NOUN from the sentence:
+Would you like a drink?
+drink
+
+Enter a NOUN from the sentence:
+I lost the draw and so I have to go last.
+draw
+
+Enter a NOUN from the sentence:
+He was Clint Eastwood's double.
+double
+
+Enter a NOUN from the sentence:
+My daughter would love to have a dog.
+daughter
+
+Enter a NOUN from the sentence:
+He will soon receive his degree.
+degree
+
+Enter a NOUN from the sentence:
+I work in the sales division.
+sales
+division
+Enter a NOUN from the sentence:
+Many people believe the dead come back to haunt.
+people
+dead
+Enter a NOUN from the sentence:
+What a great day!
+day
+
+Enter a NOUN from the sentence:
+How did you get that cut?
+cut
+
+Enter a NOUN from the sentence:
+I'm taking a computer course at the local college.
+course
+college
+Enter a NOUN from the sentence:
+Can you give me a copy of that report?
+copy
+report
+Enter a NOUN from the sentence:
+Has his condition improved?
+condition
